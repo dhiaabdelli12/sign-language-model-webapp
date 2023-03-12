@@ -17,7 +17,7 @@ Working on it
 Make sure you're in backend/ directory by cding into it
 
 ```
-uvicorn main:app --port 8000
+uvicorn main:app --port 8000 --reload
 ```
 
 ## Starting the developement server for React
